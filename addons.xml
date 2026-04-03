@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+
+<addon id="plugin.video.easynewsx"
+       name="EasyNews"
+       version="6.3.7"
+       provider-name="Tetsuo">
+
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+
+    <extension point="xbmc.addon.metadata">
+        <summary>EasyNews for Kodi</summary>
+        <description>Browse and stream EasyNews videos</description>
+        <platform>all</platform>
+    </extension>
+
+</addon>
+
+</addons>
