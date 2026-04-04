@@ -3,7 +3,7 @@
 
 <addon id="plugin.video.easynewsx"
        name="EasyNews"
-       version="6.3.7"
+       version="6.3.8"
        provider-name="Tetsuo">
 
     <requires>
