@@ -34,6 +34,12 @@ After the repository is installed, Kodi can check for updates like any other add
 
 ---
 
+## Latest release v6.4.0
+
+Better backward compatibility on Kodi 19 (Matrix); experimental VLC playback with context menu addtions; clearer Easynews error reporting and more reliable downloads and cancellation; Kodi 20 (Nexus) and newer remain supported.
+
+---
+
 ## Issues
 
 - **Repository:** [github.com/tetsuosoft/EasyNewsKodi](https://github.com/tetsuosoft/EasyNewsKodi)
