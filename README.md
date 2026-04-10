@@ -4,7 +4,7 @@
 
 # EasyNews Kodi add-on
 
-**EasyNews Video by Tetsuo** is a Kodi video add-on that searches your [EasyNews](https://www.easynews.com/) account and plays members-only streams. It supports saved newsgroups, search and play history, experimental VLC playback (superior to Kodi player with some Easynews streams), TMDB discovery, a local downloads folder browser, optional split-file lookup, and related tools.
+**EasyNews Video by Tetsuo** is a Kodi video add-on that searches the [EasyNews](https://www.easynews.com/) retention database and plays members-only streams. It supports saved newsgroups, search and play history, experimental VLC playback (superior to Kodi player with some Easynews streams), TMDB discovery, a local downloads folder browser, optional split-file lookup, and related tools.
 
 **Requirements:** Kodi **19+** (Matrix). An active **EasyNews** membership.
 
