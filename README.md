@@ -27,6 +27,16 @@ After the repository is installed, Kodi can check for updates like any other add
 
 ---
 
+## Install manually via Zipfile
+
+Using this method WILL NOT get automatic updates when new versions are published. You'll have to manually manage that if wish to update in the future.
+
+1. Open **[Releases](https://github.com/tetsuosoft/EasyNewsKodi/releases/tag/EasyNewsAddon)** and download the latest Zip.
+2. **In Kodi:** Settings → System → Add-ons → Unknown sources → Enable
+3. **Then:** Settings → Add-ons → Install from zip file → select that add-on zip (the add-on is now installed).
+4. Return to the main Kodi menu screen, enter Add-ons and look for the funky EasyNews Add-on then go!
+5. Configure your EasyNews **username and password** under the add-on’s settings as below. Enjoy!
+
 ## Configuration
 
 - **EasyNews account:** Add-on settings → **General** → username and password.
