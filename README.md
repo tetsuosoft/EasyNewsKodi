@@ -44,7 +44,11 @@ Using this method WILL NOT get automatic updates when new versions are published
 
 ---
 
-## Latest release v6.4.1
+## Latest release v6.4.2
+
+After user requests on Reddit, Easynews member plan and download usage remaining is now shown on the main screen
+
+## Previous release v6.4.1
 
 Better backward compatibility on Kodi 19 (Matrix); experimental VLC playback with context menu additions; more robust Easynews stream seeking and recovery; clearer Easynews error reporting and more reliable downloads and cancellation; Kodi 20 (Nexus) and newer remain supported.
 
