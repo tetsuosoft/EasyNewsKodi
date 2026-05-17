@@ -43,11 +43,23 @@ After the repository is installed, Kodi can automatically check or your can manu
 
 ---
 
-## Latest release v6.4.2
+## Latest release v6.5.1
+
+After more user requests on [Reddit](https://www.reddit.com/r/Addons4Kodi/):
+
+- Search cache — Revisit the same search faster when paging back or switching size. Cache saved for 30 mins.
+- Video size — Default to All, 720p, 1080p, or 4K; change anytime from the main menu or search results.
+- Account usage — Main menu shows plan and gigs left; tap to refresh.
+- Better EasyNews routing — Streams use your account's best route / server farm when available; Tools can show your current route.
+- TMDB discovery — Browse and search movies and TV; drill into episodes and search EasyNews in one tap.
+
+## Previous releases 
+
+6.4.2
 
 After user requests on Reddit, Easynews member plan and download usage remaining is now shown on the main screen
 
-## Previous release v6.4.1
+v6.4.1
 
 Better backward compatibility on Kodi 19 (Matrix); experimental VLC playback with context menu additions; more robust Easynews stream seeking and recovery; clearer Easynews error reporting and more reliable downloads and cancellation; Kodi 20 (Nexus) and newer remain supported.
 
