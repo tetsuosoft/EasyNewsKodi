@@ -45,17 +45,23 @@ After the repository is installed, Kodi can automatically check or your can manu
 
 ---
 
-## Latest release v6.5.1
+## Latest release v6.6.0
 
-After more user requests on [Reddit](https://www.reddit.com/r/Addons4Kodi/):
+After user requests on [Reddit](https://www.reddit.com/r/Addons4Kodi/):
+
+- Fixed startup crash on some older Kodi boxes.
+- Play with NOSEEK — new context-menu option on search results and play history; can help streams start faster on some setups. Note: no seeking or skipping a stream is possible for movies launched with this option
+- Search sort order — sort results by post date (newest or oldest) or file size (smallest or largest).
+
+## Previous releases 
+
+6.5.1
 
 - Search cache — Revisit the same search faster when paging back or switching size. Cache saved for 30 mins.
 - Video size — Default to All, 720p, 1080p, or 4K; change anytime from the main menu or search results.
 - Account usage — Main menu shows plan and gigs left; tap to refresh.
 - Better EasyNews routing — Streams use your account's best route / server farm when available; Tools can show your current route.
 - TMDB discovery — Browse and search movies and TV; drill into episodes and search EasyNews in one tap.
-
-## Previous releases 
 
 6.4.2
 
