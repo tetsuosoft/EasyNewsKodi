@@ -41,7 +41,7 @@ If you prefer to install the repo by direct ZIP Install it's here:
 
 https://tetsuosoft.github.io/EasyNewsKodi/EasyNewsRepo/repository.easynewsx-1.0.0.zip
 
-After the repository is installed, Kodi can automatically check or your can manually check for updates, depending on your Kodi settings.
+After the repository is installed, Kodi can automatically check or you can manually check for updates, depending on your Kodi settings.
 
 ---
 
