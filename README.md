@@ -1,6 +1,8 @@
 ![EasyNews Kodi banner](images/banner.jpg)
 
-<a href="https://www.buymeacoffee.com/06RPRD0Agn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+| <a href="https://ko-fi.com/tetsuox" target="_blank"><img src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" style="height: 45px !important;width: 162px !important;" ></a> | [https://ko-fi.com/tetsuox](https://ko-fi.com/tetsuox) |
+| --- | --- |
 
 # EasyNews Kodi add-on
 
@@ -70,7 +72,8 @@ Better backward compatibility on Kodi 19 (Matrix); experimental VLC playback wit
 - **Repository:** [github.com/tetsuosoft/EasyNewsKodi](https://github.com/tetsuosoft/EasyNewsKodi)
 - Report bugs or feature requests via **GitHub Issues**.
 
-<a href="https://www.buymeacoffee.com/06RPRD0Agn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+| <a href="https://ko-fi.com/tetsuox" target="_blank"><img src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" style="height: 45px !important;width: 162px !important;" ></a> | [https://ko-fi.com/tetsuox](https://ko-fi.com/tetsuox) |
+| --- | --- |
 
 ---
 
