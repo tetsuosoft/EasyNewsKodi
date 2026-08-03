@@ -45,15 +45,19 @@ After the repository is installed, Kodi can automatically check or you can manua
 
 ---
 
-## Latest release v6.6.0
+## Latest release v6.6.1
+
+- Fixed thumbnails were not showing in search results after Easynews changed stuff!
+
+## Previous releases 
+
+6.6.0
 
 After user requests on [Reddit](https://www.reddit.com/r/Addons4Kodi/):
 
 - Fixed startup crash on some older Kodi boxes.
 - Play with NOSEEK — new context-menu option on search results and play history; can help streams start faster on some setups. Note: no seeking or skipping a stream is possible for movies launched with this option
 - Search sort order — sort results by post date (newest or oldest) or file size (smallest or largest).
-
-## Previous releases 
 
 6.5.1
 
