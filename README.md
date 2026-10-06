@@ -45,11 +45,15 @@ After the repository is installed, Kodi can automatically check or you can manua
 
 ---
 
-## Latest release v6.6.1
+## Latest release v6.6.3
 
-- Fixed thumbnails were not showing in search results after Easynews changed stuff!
+- History size. Choose how many Search History and Play History items are kept in add-on settings (default 20, up to 100).
 
 ## Previous releases 
+
+6.6.1
+
+Fixed thumbnails were not showing in search results after Easynews changed stuff!
 
 6.6.0
 
